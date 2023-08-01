@@ -1,1 +1,1 @@
-# this is juwt practice 
+# this is just practice 
